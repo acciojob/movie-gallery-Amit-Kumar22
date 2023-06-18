@@ -1,27 +1,21 @@
 
 /* Your CSS Code here. */
-.row1 {
+.row {
   display: flex;
 }
 
-.r1c1 {
+.col-sm-1 {
   flex: 8.33%;
   
 }
-.row2{
-	display:flex;
-}
-.r2{
+.col-sm-2{
 	flex: 16.66%;
 
 }
-.row3{
-	display:flex;
-}
-.r3{
+.col-sm-4{
 	width: 33.33%;
 
 }
-.r4{
+.col-sm-12{
 	width: 100%;
 }
