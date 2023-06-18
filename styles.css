@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.row1 {
+  display: flex;
+}
+
+.r1c1 {
+  flex: 8.33%;
+  
+}
+.row2{
+	display:flex;
+}
+.r2{
+	flex: 8.33%;
+
+}
+.row3{
+	display:flex;
+}
+.r3{
+	flex: 8.33%;
+
+}
