@@ -12,13 +12,16 @@
 	display:flex;
 }
 .r2{
-	flex: 8.33%;
+	flex: 16.66%;
 
 }
 .row3{
 	display:flex;
 }
 .r3{
-	flex: 8.33%;
+	width: 33.33%;
 
+}
+.r4{
+	width: 100%;
 }
